@@ -706,7 +706,7 @@ footer ul {
 
 .gallery .item:hover .product-overlay,
 .gallery .item:focus .product-overlay {
-  transform: translateY(-294px);
+  transform: translateY(-100%);
 }
 
 .gallery .item:not(:nth-child(3n)) {
